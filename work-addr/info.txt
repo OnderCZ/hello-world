@@ -1,1 +1,2 @@
 V této složce budou pracovní soubory - winfas.cz
+Vìtev develop - OK?
